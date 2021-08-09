@@ -11,6 +11,3 @@ Nervos - Broaden The Spectrum - Gitcoin Hackaton
 
 ### Nervos Layer 1 address passed to withdraw command
 ckt1qyqwvgqjhyh38lc0j0wua3a79xdp096r9vqsr82ay3
-
-
-node ./packages/tools/lib/account-cli.js withdraw -r http://3.235.223.161:18114 -p 0x5229d613ecbb99384645f4c8e107288715b99812c109ab27347eab2cee3d7823 -o ckt1qyqwvgqjhyh38lc0j0wua3a79xdp096r9vqsr82ay3 -c 40000000000
